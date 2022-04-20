@@ -1,6 +1,12 @@
-title: Kanhaiya Choudhary
+title: <p align="center"> Kanhaiya Choudhary </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/kanhaiya-choudhary1/">LinkedIn</a> |
+  <a href="https://github.com/kc11381">GitHub</a>
+  
+  <br>   
+  I'm working on Email Security Solution for almost 10 years now.
+  <br>
+  </p>
 theme: jekyll-theme-minimal
